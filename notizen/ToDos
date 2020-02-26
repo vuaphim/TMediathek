@@ -1,0 +1,8 @@
+Interne ToDos bitte mit FIXME markieren. Das Schlüsselwert ToDo ist für Rückbau oder Studi-ToDos reserviert.
+
+Muss/Sollte:
+- CamelCase vereinheitlichen (siehe Kundenauflister)
+
+Kann:
+- MediathekUI: Idee: Aufzählungstyp für Anzeige, Rückgabe usw. Wie wäre es mit einem zustand, um die Verwaltung von zeigeAn() zu vereinfachen.
+- Gelbetrag könnte bereits im Medium zur Berechnung verwendet werden oder würden wir dadurch die Aufgabe 9 vorwegnehmen?
